@@ -1,0 +1,10 @@
+# Python / FastAPI
+backend/venv/
+backend/__pycache__/
+*.pyc
+.env
+
+# Node / Angular
+frontend/node_modules/
+frontend/dist/
+.angular/
